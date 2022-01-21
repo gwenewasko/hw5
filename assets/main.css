@@ -41,14 +41,14 @@ textarea {
 }
 
 .time-block {
-  text-align: center;
-  border-radius: 15px;
+  text-align: left;
 }
 
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
+  border-radius: 15px;
 }
 
 .past {
